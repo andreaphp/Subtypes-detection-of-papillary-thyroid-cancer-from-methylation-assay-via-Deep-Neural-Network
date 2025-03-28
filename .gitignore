@@ -1,0 +1,5 @@
+*.npy
+Datasets/FilteredData.csv
+.ipynb_checkpoints
+RawData
+__pycache__/
