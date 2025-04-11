@@ -5,3 +5,4 @@ RawData
 __pycache__/
 Models
 Tensorboard
+ckpt-*
