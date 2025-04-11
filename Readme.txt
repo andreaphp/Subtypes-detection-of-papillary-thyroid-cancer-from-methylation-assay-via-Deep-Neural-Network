@@ -8,7 +8,7 @@ Recreate the conda enviroment with conda create --name <env_name> --file conda/s
 Download GDC data using the GDC download tool and the provided manifest in the "GDC Data Download" folder
 
 Change the .env file to reflect where you put code and data in the code
-1. CODE_PATH - the absolue path of code subfolder.
+1. CODE_PATH - the absolute path of code subfolder.
 2. GDC_PATH - the absolute path of TCGA folder where you downloades cases using GDC donwload tool.
 3. RAW_THYROID_PATH - the absolute path of rawdata for thyroid dataset creation (for reference only, npy files are provided on zenodo).
 4. THYROID_PATH - the absolute path of dataset folder.
